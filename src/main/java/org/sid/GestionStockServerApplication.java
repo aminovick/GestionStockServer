@@ -8,6 +8,7 @@ public class GestionStockServerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GestionStockServerApplication.class, args);
+		System.out.println("amine");
 	}
 
 }
